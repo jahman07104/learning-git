@@ -19,4 +19,4 @@ to commit and include a message
  step #6
  we then run git push to push the changes up to the repository
  *******
- Git Pull os the opposite of git push ..it will get the latest code from the repository
+ Git Pull is the opposite of git push ..it will get the latest code from the repository
