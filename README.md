@@ -2,8 +2,17 @@
 CS50W lecture
 I created this to save notes on how to use git and github.These notes are based on a lecture on Edx.org.
 I plan to use this as a blue print for future git hub repositories.
+**************
+NOTES 
+SCM stands for source code manager
+examples of git config setup
+git config user.name
+git config user.email
+git config --global core.editor "name of editor(VSCode)"
+use git help to display commands for help 
+eg git help log
 
-*********
+***************
 So step #1
 On the github site create a repository
 step #2
